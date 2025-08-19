@@ -7,34 +7,28 @@ Os arquivos podem ser utilizados em atividades de análise exploratória, regres
 
 ## 📑 Lista de datasets
 
-### 1. `water_potability.csv`
-- **Descrição:** Dados de potabilidade da água com variáveis físico-químicas (pH, sólidos totais dissolvidos, condutividade, turbidez, etc.).
-- **Tamanho:** ~3.200 amostras.
+### 1. [water_potability.csv](https://raw.githubusercontent.com/juliosdutra/modelagem-processos-dados/main/exercicios/dados/water_potability.csv)
+- **Descrição:** Dados de potabilidade da água com variáveis físico-químicas (pH, sólidos dissolvidos, condutividade, turbidez, etc.).
 - **Aplicações:** classificação (água potável ou não), análise de correlação, pré-processamento de dados.
 
-### 2. `wastewater_treatment.csv`
-- **Descrição:** Dados de uma estação de tratamento de efluentes (ETE), incluindo parâmetros físico-químicos ao longo do processo.
-- **Fonte:** UCI Machine Learning Repository.
-- **Aplicações:** regressão multivariada, desenvolvimento de sensores virtuais, controle de processos.
+### 2. [wastewater_treatment.csv](https://archive.ics.uci.edu/ml/datasets/Wastewater+Treatment+Plant)
+- **Descrição:** Dados de uma estação de tratamento de efluentes (ETE), com parâmetros físico-químicos.
+- **Aplicações:** regressão multivariada, sensores virtuais, controle de processos.
 
-### 3. `air_quality.csv`
-- **Descrição:** Monitoramento da qualidade do ar em uma cidade, com variáveis como CO, NOx, O3 e temperatura.
-- **Fonte:** UCI Machine Learning Repository.
+### 3. [air_quality.csv](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
+- **Descrição:** Monitoramento da qualidade do ar (CO, NOx, O3, temperatura, etc.).
 - **Aplicações:** séries temporais, análise de poluição atmosférica, PCA.
 
-### 4. `co2_emissions.csv`
-- **Descrição:** Dados de emissões de CO2 de veículos em função de consumo de combustível e características do motor.
-- **Fonte:** Kaggle.
+### 4. [co2_emissions.csv](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles)
+- **Descrição:** Emissões de CO2 de veículos em função de consumo de combustível e características do motor.
 - **Aplicações:** regressão linear/múltipla, análise estatística.
 
-### 5. `energy_efficiency.csv`
-- **Descrição:** Medidas de eficiência energética em edifícios (isolamento, área, orientação, etc.).
-- **Fonte:** UCI Machine Learning Repository.
+### 5. [energy_efficiency.csv](https://archive.ics.uci.edu/ml/datasets/Energy+efficiency)
+- **Descrição:** Eficiência energética de edifícios (isolamento, área, orientação, etc.).
 - **Aplicações:** regressão multivariada, PCA, otimização.
 
-### 6. `chemical_process_yield.csv`
-- **Descrição:** Dados experimentais de um processo químico, com variáveis de operação e rendimento do processo.
-- **Fonte:** Kaggle.
+### 6. [chemical_process_yield.csv](https://www.kaggle.com/datasets/shivamb/chemical-process-yield)
+- **Descrição:** Dados experimentais de processo químico, com variáveis de operação e rendimento.
 - **Aplicações:** regressão não linear, otimização de condições experimentais.
 
 ---
