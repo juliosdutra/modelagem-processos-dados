@@ -1,11 +1,6 @@
-# modelagem-processos-dados
-Material da disciplina Modelagem de Processos Baseada em Dados (UFES – Engenharia Química). Inclui aulas, exemplos em Python, exercícios, estudos de caso e referências.
-
-
 # Modelagem de Processos Baseada em Dados
 
-Repositório da disciplina **Modelagem de Processos Baseada em Dados** do curso de Engenharia Química da UFES.  
-Aqui você encontrará materiais de apoio, exemplos em Python, exercícios e estudos de caso relacionados à análise e modelagem de processos industriais utilizando técnicas baseadas em dados.
+Repositório da disciplina **PPEQ-1040 Modelagem de Processos Baseada em Dados** do curso de Engenharia Química da UFES.  Aqui você encontrará materiais de apoio, exemplos em Python, exercícios e estudos de caso relacionados à análise e modelagem de processos industriais utilizando técnicas baseadas em dados.
 
 ---
 
