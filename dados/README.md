@@ -40,7 +40,7 @@ Exemplo em Python para carregar qualquer dataset desta pasta:
 import pandas as pd
 
 # Exemplo: leitura do dataset de potabilidade da água
-url = "https://raw.githubusercontent.com/juliosdutra/modelagem-processos-dados/main/exercicios/dados/water_potability.csv"
+url = "https://raw.githubusercontent.com/juliosdutra/modelagem-processos-dados/main/dados/water_potability.csv"
 df = pd.read_csv(url)
 
 print(df.shape)
