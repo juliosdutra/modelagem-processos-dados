@@ -1,4 +1,9 @@
+
 # PPEQ-1040 – Modelagem de Processos Baseada em Dados
+
+[![Versão](https://img.shields.io/badge/version-v1.0-blue.svg)](https://github.com/juliosdutra/modelagem-processos-dados/releases)
+[![Licença: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juliosdutra/modelagem-processos-dados/)
 
 Repositório oficial da disciplina **PPEQ-1040 – Modelagem de Processos Baseada em Dados** do Programa de Pós-Graduação em Engenharia Química (UFES).  
 Inclui ementa, materiais de aula, exemplos em Python, exercícios, artigos de referência e projetos finais.
@@ -50,10 +55,4 @@ It includes lectures, Python notebooks, exercises, and case studies related to d
 ## 📜 Licença
 Material disponibilizado sob licença MIT, salvo indicação em contrário.
 
----
 
-# PPEQ-1040 – Modelagem de Processos Baseada em Dados
-
-[![Versão](https://img.shields.io/badge/version-v1.0-blue.svg)](https://github.com/juliosdutra/modelagem-processos-dados/releases)
-[![Licença: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juliosdutra/modelagem-processos-dados/)
