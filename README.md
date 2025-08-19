@@ -1,51 +1,51 @@
-# Modelagem de Processos Baseada em Dados
+# PPEQ-1040 – Modelagem de Processos Baseada em Dados
 
-Repositório da disciplina **PPEQ-1040 Modelagem de Processos Baseada em Dados** do curso de Engenharia Química da UFES.  Aqui você encontrará materiais de apoio, exemplos em Python, exercícios e estudos de caso relacionados à análise e modelagem de processos industriais utilizando técnicas baseadas em dados.
+Repositório oficial da disciplina **PPEQ-1040 – Modelagem de Processos Baseada em Dados** do Programa de Pós-Graduação em Engenharia Química (UFES).  
+Inclui ementa, materiais de aula, exemplos em Python, exercícios, artigos de referência e projetos finais.
 
 ---
 
 ## 🎯 Objetivo da disciplina
-Capacitar o aluno a compreender e aplicar métodos de modelagem de processos industriais com ênfase em técnicas baseadas em dados, integrando conceitos de estatística, aprendizado de máquina e simulação computacional.
+Capacitar o aluno a desenvolver, aplicar e validar modelos matemáticos e estatísticos voltados à análise, predição e tomada de decisão em processos industriais, com ênfase em modelagem baseada em dados e integração com conhecimento fenomenológico.
 
 ---
 
-## 📚 Conteúdo Programático (resumido)
-- Fundamentos e aquisição de dados
-- Modelagem estatística e regressão
-- Redes neurais e aprendizado de máquina
-- Modelos híbridos (físico + dados)
-- Estudos de caso em processos químicos
+## 📚 Conteúdo Programático
+1. **Fundamentos de Modelagem** – Conceitos, classificação de modelos e etapas do processo.  
+2. **Aquisição e Tratamento de Dados** – Pré-processamento, análise exploratória e visualização.  
+3. **Modelagem Baseada em Dados** – Regressão, PCA, PLS, modelos de séries temporais.  
+4. **Modelagem com Redes Neurais** – Estrutura, treinamento, validação e integração de conhecimento físico.  
+5. **Implementação Computacional** – Python, Pandas, Scikit-learn, Pyomo, CasADi.  
 
 ---
 
-## 🛠️ Pré-requisitos recomendados
-- Noções básicas de **programação em Python**
-- Conhecimentos de **estatística** e **operações unitárias**
-- Familiaridade com ferramentas computacionais (Jupyter Notebook, Anaconda)
+## 🛠️ Procedimentos Didáticos
+- Aulas expositivas e estudos de caso  
+- Atividades computacionais em Python  
+- Discussão de artigos científicos  
+- Projeto prático com dados reais ou sintéticos  
 
 ---
 
 ## 📂 Estrutura do repositório
-- `aulas/` → Slides e notas de aula  
+- `aulas/` → Slides e materiais de aula  
 - `exercicios/` → Listas de exercícios e resoluções  
 - `notebooks/` → Exemplos em Python (Jupyter Notebooks)  
-- `projetos/` → Projeto final da disciplina  
+- `projeto/` → Projeto final da disciplina  
 
 ---
 
-## 📖 Referências principais
-- BRUNTON, S. L.; KUTZ, J. N. *Data-Driven Science and Engineering*. Cambridge, 2019.  
-- JAMES, G. et al. *An Introduction to Statistical Learning*. Springer, 2021.  
-- RASCHKA, S.; MIRJALILI, V. *Python Machine Learning*. Packt, 2019.  
+## 📖 Bibliografia
+- **Básica**: Brunton & Kutz (2019), James et al. (2021), Raschka & Mirjalili (2019)  
+- **Complementar**: Goodfellow et al. (2016), Haykin (2001), Montgomery & Runger (2013), entre outros  
 
 ---
 
 ## 🌍 English Version
-This repository contains materials for the **Data-Driven Process Modeling** course (UFES – Chemical Engineering).  
-It includes lectures, Python examples, exercises, and case studies related to data-driven approaches for industrial process modeling.
+This repository contains materials for **PPEQ-1040 – Data-Driven Process Modeling** (UFES – Graduate Program in Chemical Engineering).  
+It includes lectures, Python notebooks, exercises, and case studies related to data-driven approaches for process modeling and decision-making.
 
 ---
 
 ## 📜 Licença
-Este repositório é disponibilizado sob a licença MIT.  
-Sinta-se à vontade para usar e adaptar o material, citando a fonte.
+Material disponibilizado sob licença MIT, salvo indicação em contrário.
