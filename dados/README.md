@@ -31,6 +31,7 @@ Os arquivos podem ser utilizados em atividades de análise exploratória, regres
 - **Descrição:** Dados experimentais de processo químico, com variáveis de operação e rendimento.
 - **Aplicações:** regressão não linear, otimização de condições experimentais.
 
+OBS: https://archive.ics.uci.edu/datasets
 ---
 
 ## 🔧 Como utilizar
