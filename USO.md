@@ -19,6 +19,7 @@ git clone https://github.com/juliosdutra/modelagem-processos-dados.git
 cd modelagem-processos-dados
 pip install -r requirements.txt
 jupyter notebook
+```
 
 ## 📝 Projeto final
 * Está descrito em projeto/README.md.
